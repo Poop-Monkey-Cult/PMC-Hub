@@ -1,0 +1,25 @@
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\bin\Debug\JamImproved.exe.config
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\bin\Debug\JamImproved.exe
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\bin\Debug\JamImproved.pdb
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.csproj.AssemblyReference.cache
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\MainWindow.g.cs
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\App.g.cs
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved_MarkupCompile.cache
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved_MarkupCompile.lref
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\App.baml
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\MainWindow.baml
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.g.resources
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.Properties.Resources.resources
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.csproj.GenerateResource.cache
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.csproj.CoreCompileInputs.cache
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.exe
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\JamImproved.pdb
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\MVVM\View\HomeView.g.cs
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\MVVM\View\HomeView.baml
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lardson\source\repos\JamImproved\JamImproved\obj\Debug\MVVM\View\BlacklistView.g.cs
+C:\Users\Lardson\Documents\Python Projects\JamImproved\JamImproved\obj\Debug\JamImproved.csproj.AssemblyReference.cache
+C:\Users\Lardson\Documents\Python Projects\JamImproved\JamImproved\obj\Debug\JamImproved.exe
+C:\Users\Lardson\Documents\Python Projects\JamImproved\JamImproved\obj\Debug\JamImproved.pdb
